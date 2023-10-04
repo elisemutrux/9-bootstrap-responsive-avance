@@ -54,3 +54,27 @@ video {
 .container {
   margin-bottom: 50px;
 }
+
+header .container {
+  margin-bottom: 0px;
+}
+
+main .container {
+  margin-bottom: 0px;
+}
+
+footer .container {
+  margin-bottom: 0px;
+}
+
+header{
+  background: #2B2D42;
+}
+
+main{
+  background: #F0E0FF;
+}
+
+footer{
+  background: #92DCE5;
+}
